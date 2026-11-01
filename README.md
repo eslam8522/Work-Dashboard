@@ -38,7 +38,7 @@ cd backend
 npm install
 cp .env.example .env      # then edit .env (see the table below)
 npm run seed              # optional: demo accounts + sample studies
-npm run dev               # http://localhost:5000
+npm run dev               
 ```
 
 ### 2. Frontend
@@ -47,7 +47,7 @@ npm run dev               # http://localhost:5000
 cd frontend
 npm install
 cp .env.example .env
-npm run dev               # http://localhost:5173
+npm run dev               
 ```
 
 ### Demo accounts (after `npm run seed`)
